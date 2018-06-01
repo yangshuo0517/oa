@@ -5,7 +5,7 @@
 5555555
 6666666
 select * from book;
-master 777777
+master 77777
 delete from book where id=1;
 github update 01
 local new object
